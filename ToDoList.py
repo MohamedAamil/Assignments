@@ -1,4 +1,3 @@
-#Change Image Path
 
 import PySimpleGUI as sg
 
@@ -28,7 +27,7 @@ res = ["         " + task  for task in todolist]
 result = [i + j for i, j in zip(deadline , res)]
 
 layout = [
-    [sg.Image(r"C:\Users\Aamil\AppData\Roaming\JetBrains\PyCharmCE2020.2\scratches\Club Activities\24Oct\images\image.png" , size = (600,100))],
+    [sg.Image("image.png" , size = (600,100))],
     [sg.Text("To Do: " , font = ("Simplified Arabic Fixed",15), pad = (20,20)),
      sg.InputText("" , size = (35 , 1), font = ("Simplified Arabic" , 14), key = 'task' , background_color= "white" , text_color= "black" ),
      sg.Combo(['Very High' , 'High' , 'Normal' , 'Low'] ,font = ("Simplified Arabic Fixed" , 9) , background_color= "white", text_color= "black" , key = 'priority') ],
