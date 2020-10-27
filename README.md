@@ -1,7 +1,15 @@
 # TodoList
 
-Here lies the Projects of Mohamed Aamil
+A Creation of AamiL
 
 On Oct 25:
   To Do List - Using PySimpleGui
+  
+  Can Add a Task
+  Can Remove a Task
+  Can Edit a Task
+  Can Add Priority
+  Can arrange by Priority
+  Can Add Deadline
+  Can save your Tasks in file
   
