@@ -5,12 +5,12 @@ A Creation of AamiL
 On Oct 25:
   To Do List - Using PySimpleGui:
   
-  User - Friendly,
-  Can Add a Task,
-  Can Remove a Task,
-  Can Edit a Task,
-  Can Add Priority,
-  Can arrange by Priority,
-  Can Add Deadline,
-  Can save your Tasks in file
+  1.User - Friendly.
+  2.Can Add a Task.
+  3.Can Remove a Task.
+  4.Can Edit a Task.
+  5.Can Add Priority.
+  6.Can arrange by Priority.
+  7.Can Add Deadline.
+  8.Can save your Tasks in file.
   
